@@ -17,8 +17,8 @@
     <tr>
       <td><a href="https://ieeexplore.ieee.org/document/10502464"><b>Investigating the Effectiveness of Convolutional Neural Networks on Retinal Disease Diagnosis Using the MURED Dataset</b></a></td>
       <td>IEEE Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)</td>
-      <td><a href="https://github.com/jdl20515/IEEE-MURED-CV-Model">MURED Model</a></td>
-      <td>Aadsfjasd;lkfjasd;lfkjads;lkfj
+      <td><a href="https://github.com/jdl20515/IEEE-MURED-CV-Model">MURED Preprocessing and Models</a></td>
+      <td>The study introduces MUREDNet, a convolutional neural network model designed for diagnosing retinal diseases, which combines the strengths of Xception and ResNet architectures, performing similar to RNN models.
 </td>
     </tr>
 	  <tr>
