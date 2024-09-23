@@ -3,33 +3,6 @@
 
 <p>Welcome to my page! </br> I'm Jose David Lomelin, an ML Researcher and Fullstack Developer currently studying Artificial Intelligence at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png" width="13"/> <b>Massachusetts Institute of Technology</b>. </p>
 
-<h3>Research 🔬</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🧪 Research</b></td>
-      <td><b>📚 Published/Presented</b></td>
-       <td><b>👨‍💻 Code</b></td>
-      <td><b>📖 Summary</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://ieeexplore.ieee.org/document/10502464"><b>Investigating the Effectiveness of CNNs on Retinal Disease Diagnosis Using the MURED Dataset</b></a></td>
-      <td>IEEE Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)</td>
-      <td><a href="https://github.com/jdl20515/IEEE-MURED-CV-Model">MURED Preprocessing and Models</a></td>
-      <td>The study introduces MUREDNet, a convolutional neural network model designed for diagnosing retinal diseases, which combines the strengths of Xception and ResNet architectures, performing similar to RNN models.
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://ijsser.org/more2022.php?id=213"><b>The Development of a Computationally Efficient Algorithm to Diagnose Retinal Diseases</b></a></td>
-  <td>The International Journal of Social Science & Economic Research (IJSSER) </td>
-      <td><a href="https://github.com/jdl20515/IJSSER-Retinal-Model/tree/main">MobileNetV2 Retinal Model</a></td>
-      <td>A MobileNetV2 deep learning algorithm was developed to accurately and efficiently diagnose primary retinal diseases, addressing the increasing demand for reliable and practical diagnostic methods for visual impairments affecting millions worldwide.</td>
-    </tr>
-  </tbody>
-</table>
-
 <h3>Projects 📊</h3>
 <table>
   <thead align="center">
@@ -57,6 +30,34 @@
     </tr>
   </tbody>
 </table>
+
+<h3>Research 🔬</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🧪 Research</b></td>
+      <td><b>📚 Published/Presented</b></td>
+       <td><b>👨‍💻 Code</b></td>
+      <td><b>📖 Summary</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ieeexplore.ieee.org/document/10502464"><b>Investigating the Effectiveness of CNNs on Retinal Disease Diagnosis Using the MURED Dataset</b></a></td>
+      <td>IEEE Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)</td>
+      <td><a href="https://github.com/jdl20515/IEEE-MURED-CV-Model">MURED Preprocessing and Models</a></td>
+      <td>The study introduces MUREDNet, a convolutional neural network model designed for diagnosing retinal diseases, which combines the strengths of Xception and ResNet architectures, performing similar to RNN models.
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://ijsser.org/more2022.php?id=213"><b>The Development of a Computationally Efficient Algorithm to Diagnose Retinal Diseases</b></a></td>
+  <td>The International Journal of Social Science & Economic Research (IJSSER) </td>
+      <td><a href="https://github.com/jdl20515/IJSSER-Retinal-Model/tree/main">MobileNetV2 Retinal Model</a></td>
+      <td>A MobileNetV2 deep learning algorithm was developed to accurately and efficiently diagnose primary retinal diseases, addressing the increasing demand for reliable and practical diagnostic methods for visual impairments affecting millions worldwide.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h3>In Progress 📈</h3>
 <ul>
