@@ -9,14 +9,17 @@
     <tr border: none;>
       <td><b>🧪 Research</b></td>
       <td><b>📚 Published/Presented</b></td>
+       <td><b>👨‍💻 Code</b></td>
       <td><b>📖 Summary</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://ieeexplore.ieee.org/document/10502464"><b>Investigating the Effectiveness of Convolutional Neural Networks on Retinal Disease Diagnosis Using the MURED Dataset</b></a></td>
+      <td>IEEE Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)</td>
+      <td><a href="https://github.com/jdl20515/IEEE-MURED-CV-Model">MURED Model</a></td>
+      <td>Access to rapid and accurate detection of retinal disease is one of the most important factors in preventing blindness in patients. Diabetic retinopathy (DR) alone, for example, affects millions of patients worldwide. Retinal diseases pose a challenge to the medical community in proper diagnosis due to the sheer variety and their complex nature. To aid physicians in the diagnostic process, different image-based algorithms have been designed to analyze images of varying parts of the human eye to identify diseased samples. The proposed model, MUREDNet, combines two efficient pretrained models, Xception and ResNET, along with a series of convolutional and fully connected layers. The model was trained and tested on the Multilabel-Retinal Disease (MURED) dataset. With a total of 2208 images, the MURED dataset contains a validation set and 20 different disease sets. The proposed model, MUREDNet, could serve as a potential basis for future work in diagnosing retinal diseases with convolutional networks. Furthermore, the results obtained support that convolutional neural networks are just as viable, if not more viable, than transformer and recurrent neural network models used in image-based retinal disease classification. This was shown by comparing MUREDNet against a transformer-based model trained on the same dataset. On the mAP score, MUREDNet scored 0.737 while the transformer model scored 0.685. On the ML score, which takes the average of the mAP and AUC scores, MUREDNet scored 0.835 while the transformer model scored 0.824. Other metrics, such as the F1 score and AUC score, indicate that the transformer model scored slightly higher than MUREDNet demonstrating that CNN-based models perform similarly to transformer-based ones.
+</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
