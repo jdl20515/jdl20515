@@ -15,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://ieeexplore.ieee.org/document/10502464"><b>Investigating the Effectiveness of Convolutional Neural Networks on Retinal Disease Diagnosis Using the MURED Dataset</b></a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/10502464"><b>Investigating the Effectiveness of CNNs on Retinal Disease Diagnosis Using the MURED Dataset</b></a></td>
       <td>IEEE Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)</td>
       <td><a href="https://github.com/jdl20515/IEEE-MURED-CV-Model">MURED Preprocessing and Models</a></td>
       <td>The study introduces MUREDNet, a convolutional neural network model designed for diagnosing retinal diseases, which combines the strengths of Xception and ResNet architectures, performing similar to RNN models.
@@ -27,9 +27,9 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://ijsser.org/more2022.php?id=213"><b>The Development of a Computationally Efficient Algorithm to Diagnose Retinal Diseases</b></a></td>
+      <td><a href="https://github.com/jdl20515/IJSSER-Retinal-Model/tree/main">MobileNetV2 Model</a></td>
+      <td>A MobileNetV2 deep learning algorithm was developed to accurately and efficiently diagnose primary retinal diseases like Diabetic Retinopathy, Age-Related Macular Degeneration, Glaucoma, Cataracts, Hypertension, and Pathological Myopia using fundus images, addressing the increasing demand for reliable and practical diagnostic methods for visual impairments affecting millions worldwide.</td>
     </tr>
   </tbody>
 </table>
