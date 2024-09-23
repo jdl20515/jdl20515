@@ -10,7 +10,6 @@
       <td><b>🧪 Research</b></td>
       <td><b>📚 Published/Presented</b></td>
       <td><b>📖 Summary</b></td>
-  
     </tr>
   </thead>
   <tbody>
