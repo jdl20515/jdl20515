@@ -63,8 +63,8 @@
 <ul>
 
   <li> <a href="https://senseable.mit.edu/"> <b>Research at MIT's Senseable City Lab</b> </a> <br/> <i>Analysing human and traffic patterns around Cambridge, Massachusetts. </i> </li>
-  <li> <a href="https://www.amazon.com/"> <b>Create Your First Ethereum Smart Contract With Remix IDE</b> </a> <br/> <i>Build a Blockchain-powered chat from your browser!</i> </li>
       <li> <a href="https://pediatrx-calc.netlify.app/"> <b>PediatRx Family Medicine</b> </a> <br/> <i>Developing a suite of software tools for all pediatricians to use- for free! (Very earlry in development)</i> </li>
+        <li> <a href="/"> <b>Coming Soon.</b> </a> <br/> <i>Developing a project alongside industry professionals and Aditya Bhosale. </i> </li>
   
 
 
