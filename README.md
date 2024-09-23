@@ -29,7 +29,7 @@
     <tr>
       <td><a href="https://ijsser.org/more2022.php?id=213"><b>The Development of a Computationally Efficient Algorithm to Diagnose Retinal Diseases</b></a></td>
   <td>The International Journal of Social Science & Economic Research (IJSSER) </td>
-      <td><a href="https://github.com/jdl20515/IJSSER-Retinal-Model/tree/main">MobileNetV2 Model</a></td>
+      <td><a href="https://github.com/jdl20515/IJSSER-Retinal-Model/tree/main">MobileNetV2 Retinal Model</a></td>
       <td>A MobileNetV2 deep learning algorithm was developed to accurately and efficiently diagnose primary retinal diseases, addressing the increasing demand for reliable and practical diagnostic methods for visual impairments affecting millions worldwide.</td>
     </tr>
   </tbody>
