@@ -19,11 +19,6 @@
       <td>IEEE Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)</td>
       <td><a href="https://github.com/jdl20515/IEEE-MURED-CV-Model">MURED Preprocessing and Models</a></td>
       <td>The study introduces MUREDNet, a convolutional neural network model designed for diagnosing retinal diseases, which combines the strengths of Xception and ResNet architectures, performing similar to RNN models.
-</td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
