@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Jose David Lomelin, an ML researcher and Fullstack developer currently studying Artificial Intelligence at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png" width="13"/> <b>Massachusetts Institute of Technology</b>. </p>
 
-<h3>Research</h3>
+<h3>Research 🔬</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -39,7 +39,7 @@
   </tbody>
 </table>
 
-<h3>Projects</h3>
+<h3>Projects 📤</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -75,7 +75,7 @@
   </tbody>
 </table>
 
-<h3>What I am currently working on</h3>
+<h3>In Progress 📈</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
   <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
