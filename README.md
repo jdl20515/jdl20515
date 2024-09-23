@@ -39,7 +39,7 @@
   </tbody>
 </table>
 
-<h3>Projects 📤</h3>
+<h3>Projects 📊</h3>
 <table>
   <thead align="center">
     <tr border: none;>
