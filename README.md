@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm David Lomelin, an ML researcher and Fullstack developer currently studying Artificial Intelligence at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png" width="13"/> <b>Massachusetts Institute of Technology</b>. </p>
 
-<h3>Open source projects</h3>
+<h3>Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
