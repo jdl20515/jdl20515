@@ -16,7 +16,7 @@ i<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-
     <tr>
       <td><a href="https://nivaro.io/"><b>Nivaro</b></a></td>
       <td>700+ members, partnered with LCPS</td>
-      <td>Incubator for teen tech innovators, guiding high and middle school students from initial idea to project completion in AI and web development</td>
+      <td>Incubator for teen tech innovators, guiding high and middle school students from initial idea to project completion in AI and web development.</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
