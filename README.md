@@ -26,8 +26,13 @@ i<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-
     </tr>
     <tr>
       <td><a href="https://www.youtube.com/@davidlomelin"><b>My Youtube Channel</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td>30k+ views, 500+ Subscribers</td>
+      <td>Channel where I build in public, make vlogs or talk about life at MIT.</td>
+
+          </tr>
+
+      </td>
+
     </tr>
   </tbody>
 </table>
