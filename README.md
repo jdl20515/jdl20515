@@ -20,7 +20,7 @@
     <tr>
       <td><a href="https://ivyfy.me/"><b>Ivyfy</b></a> + <a href="https://scholarai.org/"><b>ScholarAI</b></a></td>
       <td>$3000+ revenue, 200+ paying users</td>
-      <td>B2C SaaS Applications to help students through the college applications process and do well in school. Node.JS, Supabase, shadcn/ui.</td>
+      <td>B2C SaaS Applications to help students through the college applications process and do well in school.</td>
     </tr>
     <tr>
       <td><a href="https://www.youtube.com/@davidlomelin"><b>Youtube</b></a> + <a href="https://www.linkedin.com/in/david-lomelin-2b7678252/"><b>LinkedIn</b></a></td>
