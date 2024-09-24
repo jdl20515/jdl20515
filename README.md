@@ -25,8 +25,8 @@ i<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-
     </tr>
     <tr>
       <td><a href="https://ivyfy.me/"><b>Ivyfy</b></a> + <a href="https://scholarai.org/"><b>ScholarAI</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td>B2C SaaS Applications to help students through the college applications process and do well in school. Node.JS, Supabase, shadcn/ui.</td>
     </tr>
   </tbody>
 </table>
