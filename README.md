@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm David.</h1>
+i<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm David.</h1>
 
 
 <p>Welcome to my page! </br> I'm Jose David Lomelin, an ML Researcher and Fullstack Developer currently studying Artificial Intelligence at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png" width="13"/> <b>Massachusetts Institute of Technology</b>. </p>
@@ -47,7 +47,7 @@
       <td>IEEE Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)</td>
       <td><a href="https://github.com/jdl20515/IEEE-MURED-CV-Model">MURED Preprocessing and Models</a></td>
       <td>The study introduces MUREDNet, a convolutional neural network model designed for diagnosing retinal diseases, which combines the strengths of Xception and ResNet architectures, performing similar to RNN models.
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+     </td>
     </tr>
     <tr>
       <td><a href="https://ijsser.org/more2022.php?id=213"><b>The Development of a Computationally Efficient Algorithm to Diagnose Retinal Diseases</b></a></td>
