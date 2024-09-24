@@ -23,7 +23,7 @@
       <td>B2C SaaS Applications to help students through the college applications process and do well in school. Node.JS, Supabase, shadcn/ui.</td>
     </tr>
     <tr>
-      <td><a href="https://www.youtube.com/@davidlomelin"><b>My Youtube Channel</b></a></td>
+      <td><a href="https://www.youtube.com/@davidlomelin"><b>Content Creation</b></a></td>
       <td>30k+ views, 500+ Subscribers</td>
       <td>Channel where I build in public, make vlogs or talk about life at MIT.</td>
     </tr>
