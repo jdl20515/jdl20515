@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td><a href="https://www.youtube.com/@davidlomelin"><b>Youtube</b></a> + <a href="https://www.linkedin.com/in/david-lomelin-2b7678252/"><b>LinkedIn</b></a></td>
-      <td>500k+ views, 4500+ Followers</td>
+      <td>500k+ views, 4500+ followers</td>
       <td>Channel where I build in public, make vlogs or talk about life at MIT.</td>
     </tr>
   </tbody>
