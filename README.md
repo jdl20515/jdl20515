@@ -25,7 +25,7 @@ i<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-
     </tr>
     <tr>
       <td><a href="https://ivyfy.me/"><b>Ivyfy</b></a> + <a href="https://scholarai.org/"><b>ScholarAI</b></a></td>
-      <td></td>
+      <td>$3000+ revenue, 200+ paying users</td>
       <td>B2C SaaS Applications to help students through the college applications process and do well in school. Node.JS, Supabase, shadcn/ui.</td>
     </tr>
   </tbody>
