@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Sunglasses emoji"/> Hey! I'm David.</h1>
 
 <p>Welcome to my page! <br><br> I'm Jose David Lomelin, an ML Researcher and Fullstack Developer currently studying Artificial Intelligence at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png" width="13" alt="MIT logo"/> <b>Massachusetts Institute of Technology</b>.
-<br><br>
+<br>
 
 Check out my recent projects, research and what I'm working on down below!</p>
 
