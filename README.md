@@ -18,15 +18,16 @@ i<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-
       <td>700+ members, partnered with LCPS</td>
       <td>Incubator for teen tech innovators, guiding high and middle school students from initial idea to project completion in AI and web development.</td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+	  
     <tr>
       <td><a href="https://ivyfy.me/"><b>Ivyfy</b></a> + <a href="https://scholarai.org/"><b>ScholarAI</b></a></td>
       <td>$3000+ revenue, 200+ paying users</td>
       <td>B2C SaaS Applications to help students through the college applications process and do well in school. Node.JS, Supabase, shadcn/ui.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/@davidlomelin"><b>My Youtube Channel</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
