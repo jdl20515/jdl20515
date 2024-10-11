@@ -24,7 +24,7 @@ Check out my recent projects, research and what I'm working on down below!</p>
     </tr>
     <tr>
       <td><a href="https://ivyfy.me/"><b>Ivyfy</b></a> + <a href="https://scholarai.org/"><b>ScholarAI</b></a></td>
-      <td>$3000+ revenue, 200+ paying users</td>
+      <td>$3000+ revenue, 25k+ users</td>
       <td>B2C SaaS Applications to help students through the college application process and study more efficiently.</td>
     </tr>
     <tr>
