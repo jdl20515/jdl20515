@@ -64,8 +64,8 @@ Check out my recent projects, research and what I'm working on down below!</p>
 <h3>In Progress 📈</h3>
 <ul>
   <li><a href="https://senseable.mit.edu/"><b>Research at MIT's Senseable City Lab</b></a><br><i>Analysing human and traffic patterns around Cambridge, Massachusetts alongside MIT postdocs.</i></li>
-  <li><a><b>PediatRx Family Medicine</b></a><br><i>Developing a suite of software tools for all pediatricians to use- for free! (Very early in development)</i></li>
-  <li><b>Coming Soon</b><br><i>Preliminary project research alongside industry professionals and Aditya Bhosale. Developed @ MIT Sandbox, MEC Sprint.</i></li>
+  <li><a><b>PediatRx</b></a><br><i>Developing a suite of software tools for all pediatricians to use- for free! (Very early in development)</i></li>
+  <li><b>Coming Soon</b><br><i>Preliminary project research alongside industry professionals and Aditya Bhosale. Developed @ MIT Sandbox, Penn Innovation Fund.</i></li>
 </ul>
 
 <h3>Where to find me 👀</h3>
