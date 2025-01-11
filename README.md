@@ -63,7 +63,7 @@ Check out my recent projects, research and what I'm working on down below!</p>
 
 <h3>In Progress 📈</h3>
 <ul>
-  <li><a href="https://senseable.mit.edu/"><b>Research at MIT's Senseable City Lab</b></a><br><i>Analysing human and traffic patterns around Cambridge, Massachusetts alongside MIT postdocs.</i></li>
+  <li><a href="https://senseable.mit.edu/"><b>Research at MIT's Senseable City Lab</b></a><br><i>Analysing traffic patterns around Cambridge, Massachusetts alongside MIT postdocs.</i></li>
   <li><a><b>Coming Soon</b></a><br><i>In development...</i></li>
 </ul>
 
