@@ -28,7 +28,7 @@ Check out my recent projects, research and what I'm working on down below!</p>
     <tr>
       <td><a href="https://www.youtube.com/@davidlomelin"><b>Youtube</b></a> + <a href="https://www.linkedin.com/in/david-lomelin-2b7678252/"><b>LinkedIn</b></a></td>
       <td>500k+ views, 4500+ followers</td>
-      <td>Building in public, vlogs and talking about life at MIT.</td>
+      <td>Talking about life and building projects</td>
     </tr>
   </tbody>
 </table>
